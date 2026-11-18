@@ -11,8 +11,6 @@
 Software engineering student at **Polytech Tours** 🇫🇷
 I love building things from scratch: programming languages, rendering engines, games and tools.
 
-🔎 Looking for: **[an internship / a work-study position]** in [backend / game dev] — [from Month 2027]
-
 ---
 
 ### 🚀 Featured projects
